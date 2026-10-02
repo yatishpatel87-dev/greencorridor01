@@ -1,0 +1,6 @@
+{
+  "name": "108 Emergency Green Corridor Simulator - India",
+  "description": "Smart emergency vehicle priority and traffic signal simulation educational demonstration system with bilingual Gujarati and English support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
